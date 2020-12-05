@@ -3,7 +3,7 @@ C++ Company Vehicle Tracker
 
 Projected and implemented in C++
 
-This project features the following functionalities:
+This project features the following functionalities: <br>
 -Allows interaction via a console interface (Interaction is based on a few preselected input keycodes)
 -Simulates a very basic login form (registration -> login)
   IMPORTANT: Does not feature a Database connection. Data collected is strictly for educational and convenience purposes. Data is stored in a .txt file
